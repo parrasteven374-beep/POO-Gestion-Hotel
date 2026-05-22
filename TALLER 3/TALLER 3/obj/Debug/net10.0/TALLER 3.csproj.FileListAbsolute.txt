@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\bin\Debug\net10.0\TALLER 3.exe
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\bin\Debug\net10.0\TALLER 3.deps.json
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\bin\Debug\net10.0\TALLER 3.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\bin\Debug\net10.0\TALLER 3.dll
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\bin\Debug\net10.0\TALLER 3.pdb
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\obj\Debug\net10.0\TALLER 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\obj\Debug\net10.0\TALLER 3.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\obj\Debug\net10.0\TALLER 3.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\obj\Debug\net10.0\TALLER 3.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\obj\Debug\net10.0\TALLER 3.sourcelink.json
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\obj\Debug\net10.0\TALLER 3.dll
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\obj\Debug\net10.0\refint\TALLER 3.dll
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\obj\Debug\net10.0\TALLER 3.pdb
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\obj\Debug\net10.0\TALLER 3.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\TALLER 3\TALLER 3\TALLER 3\obj\Debug\net10.0\ref\TALLER 3.dll
